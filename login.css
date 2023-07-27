@@ -1,0 +1,113 @@
+.loginbackground{
+background-color: rgb(215, 223, 224);
+width:100%;
+height :100%;
+
+}
+body{
+    margin: 0;
+}
+.captionlogin{
+    width:43%;
+    height:76%;
+   padding-left: 190px;
+   padding-top: 150px;
+   
+   float: left;
+    
+}
+.facebookname{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: blue;
+    line-height: 0;
+}
+.fbtagline{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.loginformback{
+    
+    width: 42%;
+    height: 100%;
+    float: left;
+    
+}
+.logintable{
+    background-color: rgb(255, 255, 255);
+    width: 380px;
+    height: 346px;
+    margin-top: 133px;
+    padding-left: 10px;
+    border-radius: 8px;
+}
+.usernamebox{
+    width: 360px;
+    height: 51px;
+    border-radius: 5px;
+    border-color: darkgray;
+    border-width: .5px;
+    margin-top: 16px;
+    margin-left: 5px;    
+    
+}
+.loginbuton{
+    background-color: blue;
+    width: 360px;
+    height: 51px;
+    border-radius: 5px;
+    border-width: 0;
+    margin-top: 15;
+    margin-left: 5;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 25;
+    font-weight: 300;
+    font-weight:bolder ;
+    color: rgb(255, 255, 255);
+}
+.forgottenlink{
+   
+    padding-left: 110px;
+    
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: rgb(127, 127, 252);
+    
+}
+.linehr{
+    width: 370;
+    margin-left: 0;
+}
+.createaccount{
+    
+    margin-left: 88;
+    border-radius: 5px;
+    background-color: #417a08;
+    border: 0;
+    height: 45;
+    width: 196;
+    margin-top: 8px;
+    font-size: 16;
+    font-weight: bolder ;
+    color: rgb(255, 255, 255);
+
+}
+.businesslink{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 12;
+    text-decoration:none;
+    color: black;
+}
+.linkcreate{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-top: 12;
+    text-decoration:none;
+    color: black;
+    font-weight: bolder;
+}
